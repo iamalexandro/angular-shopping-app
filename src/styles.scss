@@ -1,1 +1,33 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+  padding: 2rem 0;
+  background: #2d3133;
+  color: white;
+  width: 60%;
+  margin: 2rem auto;
+}
+
+.angular-title {
+  padding-top: 1rem;
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-align: center;
+  color: #DE3433;
+  text-shadow: 5px 5px 10px black;
+}
+
+.itemOrange {
+  border-left-style: solid;
+  border-width: 5px;
+  border-left-color: orange;
+  padding-left: 10px;
+  cursor: pointer;
+}
+
+.title {
+  color: #ffd400;
+}
+
+.subtitle {
+  color: #00b9ed;
+  font-weight: bold;
+}

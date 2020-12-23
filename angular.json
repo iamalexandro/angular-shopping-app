@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "appShopping"
+  "defaultProject": "appShopping",
+  "cli": {
+    "analytics": "9b1018fc-cb0e-436c-997a-01e292ae3fc6"
+  }
 }
